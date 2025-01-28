@@ -1,1 +1,1 @@
-console.log("sistema de registro);
+console.log("sistema de registro");
